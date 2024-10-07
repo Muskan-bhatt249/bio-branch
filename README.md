@@ -134,11 +134,16 @@ We welcome all interested developers to contribute to BioBranch! Whether you're 
 
 ---
 
-## ** Our Contributors **
----
-<a href="https://github.com/subhadipbhowmik/bio-branch/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=subhadipbhowmik/bio-branch" />
+## Big thanks to all the contributors! 🎉
+
+<a href="https://github.com/subhadipbhowmik/bio-branch/pulse">
+  <img align="center" src="https://contrib.rocks/image?max=100&repo=subhadipbhowmik/bio-branch" />
 </a>
+
+---
+
+**New Repo:** [https://github.com/subhadipbhowmik/bio-branch](https://github.com/subhadipbhowmik/bio-branch)
+
 
 ---
 
